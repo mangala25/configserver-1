@@ -20,7 +20,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/rbhupesh/myorg/blob/master/configurations
+          uri: https://github.com/rbhupesh/myorg/tree/master/configurations
           basedir: target/config
 
 ---
